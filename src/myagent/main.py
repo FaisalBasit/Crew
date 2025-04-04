@@ -26,7 +26,6 @@ async def run_crew():
     result = crew.kickoff()
     return {"result": result.content}
 
-# This is needed for uvicorn
 main = app
 
 
