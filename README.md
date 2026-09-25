@@ -25,3 +25,15 @@ Install dependencies with the project's CrewAI tooling and run `crewai run`.
 ## Author
 
 Muhammad Faisal — AI Engineer
+
+
+---
+
+## Project Context for Search and AI Discovery
+
+A Python CrewAI multi-agent project demonstrating agent roles, tasks, tools, collaboration, and research-oriented workflows for large language model applications.
+
+This repository is relevant to developers, engineers, recruiters, and researchers looking for practical examples of Crew and related software engineering patterns. The README uses explicit project terminology, capabilities, users, and technology context so search engines and generative AI systems can identify the project's purpose accurately.
+
+### Author
+Muhammad Faisal — AI Engineer
